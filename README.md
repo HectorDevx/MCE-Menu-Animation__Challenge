@@ -8,7 +8,7 @@ Por Héctor Reyes 🚀
 
 Proyecto: Misión Conejo Estelar 🐇
 
-Deploy: [Lanzar!](https://hectordevx.github.io/MCE-Menu-Animation__Challenge/)
+Deploy: [Lanzar!](https://hectordevx.github.io/mce-menu-animation__challenge/)
 
 Síguenos en: 
 [Instagram](https://www.instagram.com/conejoestelar)
